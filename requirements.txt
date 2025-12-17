@@ -1,0 +1,11 @@
+fastapi
+flask
+numpy 
+pandas 
+uvicorn
+scikit-learn
+
+# if i want to install all this file i have to write in terminal 
+# pip install -r requirements.txt 
+
+# To run file in terminal we write - python filename.py
